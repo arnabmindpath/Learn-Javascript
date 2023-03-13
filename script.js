@@ -18,6 +18,10 @@ function btnclicked(){
     noofpeople.innerText = peoplecount
 }
 
+function btnsave(){
+    console.log(peoplecount)
+}
+
 /*let lap1 = 34
 let lap2 = 33
 let lap3 = 36
@@ -30,6 +34,6 @@ function totalracingtime(){
 
 totalracingtime()*/
 
-// Youtube - https://youtu.be/jS4aFq5-91M?t=2405
+// Youtube - https://youtu.be/jS4aFq5-91M?t=2730
 
 
