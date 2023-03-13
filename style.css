@@ -1,0 +1,13 @@
+body {
+    max-width: max-content;
+    margin: auto;
+    text-align: center;
+}
+
+button{
+        background: red;
+        padding: 15px 25px 15px 25px;
+        color: white;
+        border-radius: 5px;
+        font-weight: bold;
+}
